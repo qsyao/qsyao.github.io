@@ -16,11 +16,13 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+- I am a final-year PhD student in the Institute of computing technology [(ICT)](http://english.ict.cas.cn/), Chinese academic of science (CAS), advised by Prof. [S. Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html). 
+- I obtained my B.E. in school of the gifted young ([SCGY](https://en.scgy.ustc.edu.cn/), 少年班学院, honors college) from University of science and technology of China [(USTC)](https://en.ustc.edu.cn/) in 2019. 
+- I was an intern in [Tencent Jarvis Lab](https://jarvislab.tencent.com/index-en.html) supervised by [Dr. Yefeng Zheng](https://sites.google.com/site/yefengzheng/) in 2020, and an intern in Microsoft Research Asia [(MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) in 2019.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+My research lies at developing secure and label-efficient medical image analysis algorithms with AI to achieve cost-efficient-yet-reliable medical decision-making, with recent focus on 1) learning under severely scarce labeled data, e.g., one-shot medical landmark detction and segmentation. 2) learning without any labeled data, e.g., anomaly detection and zero-shot classification, 3) adversarial attack and defence on medical diagnosis network, 4) universal medical landmark detection & segmentation. 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
