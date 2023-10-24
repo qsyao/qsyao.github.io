@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Qingsong Yao \n (姚青松)"
 description              : "Ph.D candidate in ICT, CAS. Focusing on medical image analysis (MIA)."
-repository               : "https://qsyao.github.io"
+repository               : "qsyao/qingsongyao"
 google_scholar_stats_use_cdn : true
 
 # google analytics
