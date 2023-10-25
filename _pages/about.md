@@ -25,27 +25,31 @@ redirect_from:
 My research lies at developing secure and label-efficient medical image analysis algorithms with AI to achieve cost-efficient-yet-reliable medical decision-making, with recent focus on 1) learning under severely scarce labeled data, e.g., one-shot medical landmark detction and segmentation. 2) learning without any labeled data, e.g., anomaly detection and zero-shot classification, 3) adversarial attack and defence on medical diagnosis network, 4) universal medical landmark detection & segmentation. 
 
 # 🔥 News
-- *2023.10* Glad to be awarded as a IEEE TMI Distinguished Reviewer (Brown Level)
+- *2023.10* Glad to be awarded as a IEEE TMI Distinguished Reviewer
 - *2023.9*: &nbsp; [BMPLE dataset](https://github.com/MIRACLE-Center/Oneshot_landmark_detection) is now available!
 - *2023.5*: &nbsp; One paper accepted to MICCAI-23
 - *2022.6*: &nbsp; One paper accepted to MICCAI-22
 - *2022.2*: &nbsp; One paper accepted to CVPR-22
-- *2021.8*: &nbsp; Glad to recieve MICCAI-21 travel award 
+- *2021.8*: &nbsp; Glad to recieve MICCAI-21 Student Travel Award 
 - *2021.5*: &nbsp; Three papers accepted to MICCAI-21.
 - *2021.1*: &nbsp; One paper accepted to TMI.
 - *2020.6*: &nbsp; One paper accepted to MICCAI-20.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+### One-shot landmark detection
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2021</div><img src='images/cc2d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[One-shot medical landmark detection](https://openaccess.thecvf.com/content_cvpr_2016/papers/https://link.springer.com/chapter/10.1007/978-3-030-87196-3_17)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[code](https://github.com/MIRACLE-Center/Oneshot_landmark_detection)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Qingsong Yao**, Quan Quan, Li Xiao, S. Kevin Zhou
+
+- CC2D is the first to detect medical landmarks using one labeled data.
+
 </div>
 </div>
 
@@ -64,7 +68,7 @@ My research lies at developing secure and label-efficient medical image analysis
 *Jornel Reviwers:* 
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-- IEEE Transactions on Medical Imaging (TMI-Brown Distinguished Reviewer) 
+- IEEE Transactions on Medical Imaging (TMI Distinguished Reviewer) 
 - Medical Imaging Analysis (MIA)
 - Pattern Recongnization (PR)
 - IEEE Journal of Biomedical and Health Informatics (JBHI)
