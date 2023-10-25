@@ -20,15 +20,20 @@ redirect_from:
 
 - I am a final-year PhD student in the Institute of computing technology [(ICT)](http://english.ict.cas.cn/), Chinese academic of science (CAS), advised by [Prof. S. Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html). 
 - I obtained my B.E. in school of the gifted young ([SCGY](https://en.scgy.ustc.edu.cn/), 少年班学院, honors college) from University of science and technology of China [(USTC)](https://en.ustc.edu.cn/) in 2019. 
-- My internship experiences include stints at Z2sky.ai, , B, and C.
-
-I gained valuable internship experience in 2019 at Microsoft Research Asia [(MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) under the mentorship of [Jilong Xue](https://www.microsoft.com/en-us/research/people/jxue/). This was followed by internships at [Tencent Jarvis Lab](https://jarvislab.tencent.com/index-en.html) supervised by [Dr. Yefeng Zheng](https://sites.google.com/site/yefengzheng/), and at Z2sky.ai with [Prof. S. kevin zhou]((https://sz.ustc.edu.cn/en/en_research_show/42.html)) as my adviser.
+- I gained valuable internship experience in 2019 at Microsoft Research Asia [(MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) under the mentorship of [Jilong Xue](https://www.microsoft.com/en-us/research/people/jxue/). This was followed by internships at [Tencent Jarvis Lab](https://jarvislab.tencent.com/index-en.html) supervised by [Dr. Yefeng Zheng](https://sites.google.com/site/yefengzheng/), and at Z2sky.ai with [Prof. S. kevin zhou]((https://sz.ustc.edu.cn/en/en_research_show/42.html)) as my adviser.
 
 My research lies at developing secure and label-efficient medical image analysis algorithms with AI to achieve cost-efficient-yet-reliable medical decision-making, with recent focus on 1) learning under severely scarce labeled data, e.g., one-shot medical landmark detction and segmentation. 2) learning without any labeled data, e.g., anomaly detection and zero-shot classification, 3) adversarial attack and defence on medical diagnosis network, 4) universal medical landmark detection & segmentation. 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10* Glad to be awarded as a IEEE TMI Distinguished Reviewer (Brown Level)
+- *2023.9*: &nbsp; [BMPLE dataset](https://github.com/MIRACLE-Center/Oneshot_landmark_detection) is now available!
+- *2023.5*: &nbsp; One paper accepted to MICCAI-23
+- *2022.6*: &nbsp; One paper accepted to MICCAI-22
+- *2022.2*: &nbsp; One paper accepted to CVPR-22
+- *2021.8*: &nbsp; Glad to recieve MICCAI-21 travel award 
+- *2021.5*: &nbsp; Three papers accepted to MICCAI-21.
+- *2021.1*: &nbsp; One paper accepted to TMI.
+- *2020.6*: &nbsp; One paper accepted to MICCAI-20.
 
 # 📝 Publications 
 
@@ -48,7 +53,8 @@ My research lies at developing secure and label-efficient medical image analysis
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020-2022* Academic First Class Scholarship in ICT, CAS
+- *2020-2022* Merit Student in ICT, CAS 
 
 # 📖 Educations
 - *2019.06 - (now)*, Ph.D, Institute of computing technology, Chinese academic of science, Beijing
@@ -56,6 +62,7 @@ My research lies at developing secure and label-efficient medical image analysis
 
 # 💬 Professional Services
 *Jornel Reviwers:* 
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE Transactions on Medical Imaging (TMI-Brown Distinguished Reviewer) 
 - Medical Imaging Analysis (MIA)
