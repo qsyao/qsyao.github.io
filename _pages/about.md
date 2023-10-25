@@ -18,9 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 
-- I am a final-year PhD student in the Institute of computing technology [(ICT)](http://english.ict.cas.cn/), Chinese academic of science (CAS), advised by Prof. [S. Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html). 
+- I am a final-year PhD student in the Institute of computing technology [(ICT)](http://english.ict.cas.cn/), Chinese academic of science (CAS), advised by [Prof. S. Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html). 
 - I obtained my B.E. in school of the gifted young ([SCGY](https://en.scgy.ustc.edu.cn/), 少年班学院, honors college) from University of science and technology of China [(USTC)](https://en.ustc.edu.cn/) in 2019. 
-- I was an intern in [Tencent Jarvis Lab](https://jarvislab.tencent.com/index-en.html) supervised by [Dr. Yefeng Zheng](https://sites.google.com/site/yefengzheng/) in 2020, and an intern in Microsoft Research Asia [(MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) in 2019.
+- My internship experiences include stints at Z2sky.ai, , B, and C.
+
+I gained valuable internship experience in 2019 at Microsoft Research Asia [(MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) under the mentorship of [Jilong Xue](https://www.microsoft.com/en-us/research/people/jxue/). This was followed by internships at [Tencent Jarvis Lab](https://jarvislab.tencent.com/index-en.html) supervised by [Dr. Yefeng Zheng](https://sites.google.com/site/yefengzheng/), and at Z2sky.ai with [Prof. S. kevin zhou]((https://sz.ustc.edu.cn/en/en_research_show/42.html)) as my adviser.
 
 My research lies at developing secure and label-efficient medical image analysis algorithms with AI to achieve cost-efficient-yet-reliable medical decision-making, with recent focus on 1) learning under severely scarce labeled data, e.g., one-shot medical landmark detction and segmentation. 2) learning without any labeled data, e.g., anomaly detection and zero-shot classification, 3) adversarial attack and defence on medical diagnosis network, 4) universal medical landmark detection & segmentation. 
 
@@ -49,12 +51,25 @@ My research lies at developing secure and label-efficient medical image analysis
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.06 - (now)*, Ph.D, Institute of computing technology, Chinese academic of science, Beijing
+- *2015.09 - 2019.06*, Undergraduate, school of the gifted young, University of science and technology of China, Hefei 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Professional Services
+*Jornel Reviwers:* 
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- IEEE Transactions on Medical Imaging (TMI-Brown Distinguished Reviewer) 
+- Medical Imaging Analysis (MIA)
+- Pattern Recongnization (PR)
+- IEEE Journal of Biomedical and Health Informatics (JBHI)
+
+*Conference Reviwers:* 
+- Computer Vision and Pattern Recognition (CVPR)-22.23
+- European Conference on Computer Vision (ECCV)-22
+- International Conference on Computer Vision (ICCV)-21,23
+- International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)-21.22.23
+- Winter Conference on Applications of Computer Vision (WACV)-23
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.3 - 2021.12*, Z2sky.ai, Suchoow, China
+- *2020.6 - 2020.12*, [Tencent Jarvis Lab](https://jarvislab.tencent.com/index-en.html), Shenzhen, China
+- *2018.08 - 2019.7*, [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia) system group, Beijing, China.
