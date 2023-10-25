@@ -27,7 +27,7 @@ My research lies at developing secure and label-efficient medical image analysis
 # 🔥 News
 - *2023.10* Glad to be awarded as a IEEE TMI Distinguished Reviewer
 - *2023.9*: &nbsp; [BMPLE dataset](https://github.com/MIRACLE-Center/Oneshot_landmark_detection) is now available!
-- *2023.5*: &nbsp; One paper accepted to MICCAI-23
+- *2023.5*: &nbsp; Two papers accepted to MICCAI-23
 - *2022.6*: &nbsp; One paper accepted to MICCAI-22
 - *2022.2*: &nbsp; One paper accepted to CVPR-22
 - *2021.8*: &nbsp; Glad to recieve MICCAI-21 Student Travel Award 
@@ -39,21 +39,27 @@ My research lies at developing secure and label-efficient medical image analysis
 
 ### One-shot landmark detection
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2021</div><img src='images/cc2d.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- ``MICCAI 2021``[One-shot medical landmark detection](https://openaccess.thecvf.com/content_cvpr_2016/papers/https://link.springer.com/chapter/10.1007/978-3-030-87196-3_17), **Qingsong Yao**, Quan Quan, Li Xiao, S. Kevin Zhou (early accepted, rank 47/1800) [[code]](https://github.com/MIRACLE-Center/Oneshot_landmark_detection)
+- ``CVPR 2022`` [Which images to label for few-shot medical landmark detection?](https://openaccess.thecvf.com/content/CVPR2022/papers/Quan_Which_Images_To_Label_for_Few-Shot_Medical_Landmark_Detection_CVPR_2022_paper.pdf), Quan Quan,  **Qingsong Yao***, Jun Li, S. Kevin Zhou [[code]](https://github.com/MIRACLE-Center/Oneshot_landmark_detection)
+- ``MICCAI 2023`` [UOD: Universal One-Shot Detection of Anatomical Landmarks](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_3) Heqin Zhu, Quan Quan,  **Qingsong Yao***, Zaiyi Liu, S. Kevin Zhou [[code]](https://github.com/heqin-zhu/UOD_universal_oneshot_detection)
 
-[One-shot medical landmark detection](https://openaccess.thecvf.com/content_cvpr_2016/papers/https://link.springer.com/chapter/10.1007/978-3-030-87196-3_17)
+### Anomaly Detection
+- ``TMI 2021`` [Label-free segmentation of COVID-19 lesions in lung CT](https://ieeexplore.ieee.org/abstract/document/9385788/), **Qingsong Yao**, Li Xiao, Peihang Liu, S. Kevin Zhou
 
-[code](https://github.com/MIRACLE-Center/Oneshot_landmark_detection)
+### Adversarial attacks and defenses
+- ``MICCAI 2021`` [A Hierarchical Feature Constraint to Camouflage Medical Adversarial Attacks](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_4), **Qingsong Yao**, Zecheng He, Yi Lin, Kai Ma, Yefeng Zheng, S. Kevin Zhou (early accepted, rank 9/1800) [[code]](https://github.com/MIRACLE-Center/Hierarchical_Feature_Constraint)
+- ``MICCAI 2020`` [Miss the point: Targeted adversarial attack on multiple landmark detection](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_67), **Qingsong Yao**, Zecheng He, Hu Han, S. Kevin Zhou [[code]](https://github.com/qsyao/attack_landmark_detection)
 
-**Qingsong Yao**, Quan Quan, Li Xiao, S. Kevin Zhou
+### Universal learning
+- ``MICCAI 2019`` [3D U^2-Net: A 3D Universal U-Net for Multi-domain Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_33), Chao Huang, Hu Han, **Qingsong Yao**, Shankun Zhu, S. Kevin Zhou [[code]](https://github.com/huangmozhilv/u2net_torch/)
+- ``MICCAI 2021`` [You only Learn Once: Universal Anatomical Landmark Detection](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_9), Heqin Zhu, **Qingsong Yao**, Li Xiao, S. Kevin Zhou [[code]](https://github.com/ICT-MIRACLE-lab/YOLO_Universal_Anatomical_Landmark_Detection)
 
-- CC2D is the first to detect medical landmarks using one labeled data.
 
-</div>
-</div>
+### Others
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- ``MICCAI 2022`` [Rib Suppression in Digital Chest Tomosynthesis](https://link.springer.com/chapter/10.1007/978-3-031-16431-6_66) Yihua Sun, **Qingsong Yao**, Yuanyuan Lyu, Jianji Wang, Yi Xiao, Hongen Liao, S. Kevin Zhou [[code]](https://github.com/sunyh1/Rib-Suppression-in-Digital-Chest-Tomosynthesis)
+- ``MICCAI 2023`` [FairAdaBN: Mitigating unfairness with adaptive batch normalization and its application to dermatological disease classification](https://arxiv.org/abs/2303.08325), Zikang Xu, Shang Zhao, Quan Quan, **Qingsong Yao**, S. Kevin Zhou
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
