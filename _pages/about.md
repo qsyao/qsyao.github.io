@@ -50,7 +50,7 @@ My research lies at developing secure and label-efficient medical image analysis
 - ``TMI 2021`` [Label-free segmentation of COVID-19 lesions in lung CT](https://ieeexplore.ieee.org/abstract/document/9385788/), **Qingsong Yao**, Li Xiao, Peihang Liu, S. Kevin Zhou
 
 ### Adversarial attacks and defenses
-- ``TMI 2023`` Adversarial Medical Image with Hierarchical Feature Hiding, **Qingsong Yao**, Zecheng He, Yuexiang Li, Yi Lin, Kai Ma, Yefeng Zheng, S. Kevin Zhou  [[code]](https://github.com/MIRACLE-Center/Hierarchical_Feature_Constraint)
+- ``TMI 2023``[Adversarial Medical Image with Hierarchical Feature Hiding](https://ieeexplore.ieee.org/abstract/document/10328635), **Qingsong Yao**, Zecheng He, Yuexiang Li, Yi Lin, Kai Ma, Yefeng Zheng, S. Kevin Zhou  [[code]](https://github.com/MIRACLE-Center/Hierarchical_Feature_Constraint)
 - ``MICCAI 2021`` [A Hierarchical Feature Constraint to Camouflage Medical Adversarial Attacks](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_4), **Qingsong Yao**, Zecheng He, Yi Lin, Kai Ma, Yefeng Zheng, S. Kevin Zhou (early accepted, rank 9/1800)
 - ``MICCAI 2020`` [Miss the point: Targeted adversarial attack on multiple landmark detection](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_67), **Qingsong Yao**, Zecheng He, Hu Han, S. Kevin Zhou [[code]](https://github.com/qsyao/attack_landmark_detection)
 
