@@ -43,6 +43,8 @@ My research lies at developing secure and label-efficient medical image analysis
 - ``MICCAI 2021``[One-shot medical landmark detection](https://openaccess.thecvf.com/content_cvpr_2016/papers/https://link.springer.com/chapter/10.1007/978-3-030-87196-3_17), **Qingsong Yao**, Quan Quan, Li Xiao, S. Kevin Zhou (early accepted, rank 47/1800) [[code]](https://github.com/MIRACLE-Center/Oneshot_landmark_detection)
 - ``CVPR 2022`` [Which images to label for few-shot medical landmark detection?](https://openaccess.thecvf.com/content/CVPR2022/papers/Quan_Which_Images_To_Label_for_Few-Shot_Medical_Landmark_Detection_CVPR_2022_paper.pdf), Quan Quan,  **Qingsong Yao***, Jun Li, S. Kevin Zhou [[code]](https://github.com/MIRACLE-Center/Oneshot_landmark_detection)
 - ``MICCAI 2023`` [UOD: Universal One-Shot Detection of Anatomical Landmarks](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_3) Heqin Zhu, Quan Quan,  **Qingsong Yao**, Zaiyi Liu, S. Kevin Zhou [[code]](https://github.com/heqin-zhu/UOD_universal_oneshot_detection)
+- ``TMI 2023 major`` Information-guided unsupervised augmentation: Pixel-wise contrastive learning for medical image analysis, Quan Quan*,  **Qingsong Yao***, Heqin Zhu, S. Kevin Zhou
+
 
 ### Anomaly Detection
 - ``TMI 2021`` [Label-free segmentation of COVID-19 lesions in lung CT](https://ieeexplore.ieee.org/abstract/document/9385788/), **Qingsong Yao**, Li Xiao, Peihang Liu, S. Kevin Zhou
