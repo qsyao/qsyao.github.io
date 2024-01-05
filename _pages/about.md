@@ -90,6 +90,10 @@ My research lies at developing secure and label-efficient medical image analysis
 - International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)-21.22.23
 - Winter Conference on Applications of Computer Vision (WACV)-23
 
+# 🔧Projects
+### CUDA Spatial Deform
+CUDA toolkits for 3D/2D image spatial deformation, 45X faster than CPU. [link](https://github.com/qsyao/cuda_spatial_deform)
+
 # 💻 Internships
 - *2021.3 - 2021.12*, Z2sky.ai, Suchoow, China
 - *2020.6 - 2020.12*, [Tencent Jarvis Lab](https://jarvislab.tencent.com/index-en.html), Shenzhen, China
