@@ -72,7 +72,7 @@ My research lies at developing secure and label-efficient medical image analysis
 
 # 📖 Educations
 - *2019.06 - (now)*, Ph.D, Institute of Computing Technology, Chinese Academic of Science, Beijing
-- *2015.09 - 2019.06*, Undergraduate, school of the gifted young, University of science and technology of China, Hefei 
+- *2015.09 - 2019.06*, Undergraduate, School of the Gifted Young, University of Science and Technology of China, Hefei 
 
 # 💬 Professional Services
 *Jornel Reviewers:* 
