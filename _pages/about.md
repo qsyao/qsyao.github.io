@@ -1,4 +1,4 @@
----
+![图片](https://github.com/qsyao/qsyao.github.io/assets/44317931/2405d00a-acbf-424b-b875-cc3d1b05b729)---
 permalink: /
 title: ""
 excerpt: ""
@@ -25,8 +25,9 @@ redirect_from:
 My research lies at developing secure and label-efficient medical image analysis algorithms with AI to achieve cost-efficient-yet-reliable medical decision-making, with the recent focus on 1) learning under severely scarce labeled data, e.g., one-shot medical landmark detection and segmentation. 2) learning without any labeled data, e.g., anomaly detection and zero-shot classification, 3) adversarial attack and defense on medical diagnosis network, 4) universal medical landmark detection & segmentation. 
 
 # 🔥 News
+- *2024.2*: &nbsp; Two papers accepted to ISBI.
 - *2023.11*: &nbsp; One paper accepted to TMI.
-- *2023.10*: Glad to be awarded as a IEEE TMI Distinguished Reviewer
+- *2023.10*: &nbsp; Glad to be awarded as a IEEE TMI Distinguished Reviewer
 - *2023.9*: &nbsp; [BMPLE dataset](https://github.com/MIRACLE-Center/Oneshot_landmark_detection) is now available!
 - *2023.5*: &nbsp; Two papers accepted to MICCAI-23
 - *2022.6*: &nbsp; One paper accepted to MICCAI-22
@@ -50,6 +51,7 @@ My research lies at developing secure and label-efficient medical image analysis
 - ``TMI 2021`` [Label-free segmentation of COVID-19 lesions in lung CT](https://ieeexplore.ieee.org/abstract/document/9385788/), **Qingsong Yao**, Li Xiao, Peihang Liu, S. Kevin Zhou
 
 ### Adversarial attacks and defenses
+- ``ISBI 2024`` [Nowhere to hide: Toward robust reactive medical adversarial defense](https://arxiv.org/abs/2111.10969), **Qingsong Yao**, Zecheng He, Xiaodong Yu, S. Kevin Zhou
 - ``TMI 2023``[Adversarial Medical Image with Hierarchical Feature Hiding](https://ieeexplore.ieee.org/abstract/document/10328635), **Qingsong Yao**, Zecheng He, Yuexiang Li, Yi Lin, Kai Ma, Yefeng Zheng, S. Kevin Zhou  [[code]](https://github.com/MIRACLE-Center/Hierarchical_Feature_Constraint)
 - ``MICCAI 2021`` [A Hierarchical Feature Constraint to Camouflage Medical Adversarial Attacks](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_4), **Qingsong Yao**, Zecheng He, Yi Lin, Kai Ma, Yefeng Zheng, S. Kevin Zhou (early accepted, rank 9/1800)
 - ``MICCAI 2020`` [Miss the point: Targeted adversarial attack on multiple landmark detection](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_67), **Qingsong Yao**, Zecheng He, Hu Han, S. Kevin Zhou [[code]](https://github.com/qsyao/attack_landmark_detection)
@@ -60,7 +62,7 @@ My research lies at developing secure and label-efficient medical image analysis
 
 
 ### Others
-
+- ``ISBI 2024`` Long-tailed multi-label classification with noisy label of thoracic diseases from chest X-ray, Haoran Lai, **Qingsong Yao**, Zhiyang He, Xiaodong Tao, S. Kevin Zhou
 - ``MICCAI 2022`` [Rib Suppression in Digital Chest Tomosynthesis](https://link.springer.com/chapter/10.1007/978-3-031-16431-6_66) Yihua Sun, **Qingsong Yao**, Yuanyuan Lyu, Jianji Wang, Yi Xiao, Hongen Liao, S. Kevin Zhou [[code]](https://github.com/sunyh1/Rib-Suppression-in-Digital-Chest-Tomosynthesis)
 - ``MICCAI 2023`` [FairAdaBN: Mitigating unfairness with adaptive batch normalization and its application to dermatological disease classification](https://arxiv.org/abs/2303.08325), Zikang Xu, Shang Zhao, Quan Quan, **Qingsong Yao**, S. Kevin Zhou
 
@@ -89,6 +91,9 @@ My research lies at developing secure and label-efficient medical image analysis
 - International Conference on Computer Vision (ICCV)-21,23
 - International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)-21.22.23
 - Winter Conference on Applications of Computer Vision (WACV)-23
+
+# Talks
+*2024.1* "Toward annotation-efficient medical imaging analysis" at Stanford
 
 # 🔧Projects
 ### CUDA Spatial Deform
