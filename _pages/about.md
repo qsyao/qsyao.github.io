@@ -43,7 +43,7 @@ My research lies at developing secure and label-efficient medical image analysis
 
 - ``MICCAI 2021``[One-shot medical landmark detection](https://link.springer.com/chapter/10.1007/978-3-030-87196-3_17), **Qingsong Yao**, Quan Quan, Li Xiao, S. Kevin Zhou (early accepted, rank 47/1800) [[code]](https://github.com/MIRACLE-Center/Oneshot_landmark_detection)
 - ``CVPR 2022`` [Which images to label for few-shot medical landmark detection?](https://openaccess.thecvf.com/content/CVPR2022/papers/Quan_Which_Images_To_Label_for_Few-Shot_Medical_Landmark_Detection_CVPR_2022_paper.pdf), Quan Quan\*,  **Qingsong Yao\***, Jun Li, S. Kevin Zhou [[code]](https://github.com/MIRACLE-Center/Oneshot_landmark_detection)
-- ``MICCAI 2023`` [UOD: Universal One-Shot Detection of Anatomical Landmarks](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_3) Heqin Zhu, Quan Quan,  **Qingsong Yao\**, Zaiyi Liu, S. Kevin Zhou [[code]](https://github.com/heqin-zhu/UOD_universal_oneshot_detection)
+- ``MICCAI 2023`` [UOD: Universal One-Shot Detection of Anatomical Landmarks](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_3) Heqin Zhu, Quan Quan,  **Qingsong Yao**, Zaiyi Liu, S. Kevin Zhou [[code]](https://github.com/heqin-zhu/UOD_universal_oneshot_detection)
 - ``TMI in major revision`` Information-guided unsupervised augmentation: Pixel-wise contrastive learning for medical image analysis, Quan Quan\*,  **Qingsong Yao\***, Heqin Zhu, S. Kevin Zhou
 - ``MIA in major revision`` Which images to label for few-shot medical image analysis, Quan Quan\*,  **Qingsong Yao\***, Heqin Zhu, S. Kevin Zhou
 
@@ -93,7 +93,7 @@ My research lies at developing secure and label-efficient medical image analysis
 - Winter Conference on Applications of Computer Vision (WACV)-23
 
 # Talks
-*2024.1* "Toward annotation-efficient medical imaging analysis" at Stanford
+*2024.1* "Toward annotation-efficient medical imaging analysis", Stanford
 
 # 🔧Projects
 ### CUDA Spatial Deform
