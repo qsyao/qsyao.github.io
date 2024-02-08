@@ -86,18 +86,14 @@ My research lies at developing secure and label-efficient medical image analysis
 - IEEE Journal of Biomedical and Health Informatics (JBHI)
 
 *Conference Reviewers:* 
-- Computer Vision and Pattern Recognition (CVPR)-22.23
-- European Conference on Computer Vision (ECCV)-22
+- Computer Vision and Pattern Recognition (CVPR)-22.24
+- European Conference on Computer Vision (ECCV)-22,24
 - International Conference on Computer Vision (ICCV)-21,23
-- International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)-21.22.23
+- International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)-21-24
 - Winter Conference on Applications of Computer Vision (WACV)-23
 
-# Talks
-*2024.1* "Toward annotation-efficient medical imaging analysis", Stanford
-
-# 🔧Projects
-### CUDA Spatial Deform
-CUDA toolkits for 3D/2D image spatial deformation, 45X faster than CPU. [link](https://github.com/qsyao/cuda_spatial_deform)
+%# Talks
+% CUDA Spatial DeformCUDA toolkits for 3D/2D image spatial deformation, 45X faster than CPU. [link](https://github.com/qsyao/cuda_spatial_deform)
 
 # 💻 Internships
 - *2021.3 - 2021.12*, Z2sky.ai, Suchoow, China
