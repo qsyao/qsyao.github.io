@@ -25,7 +25,7 @@ redirect_from:
 My research lies at developing secure and label-efficient medical image analysis algorithms with AI to achieve cost-efficient-yet-reliable medical decision-making, with the recent focus on 1) learning under severely scarce labeled data, e.g., one-shot medical landmark detection and segmentation. 2) learning without any labeled data, e.g., anomaly detection and zero-shot classification, 3) adversarial attack and defense on medical diagnosis network, 4) universal medical landmark detection & segmentation. 
 
 # 🔥 News
-- *2024.3*: &nbsp; One papers accepted to CVPR-24.
+- *2024.3*: &nbsp; One paper accepted to CVPR-24.
 - *2024.2*: &nbsp; Two papers accepted to ISBI-24.
 - *2023.11*: &nbsp; One paper accepted to TMI.
 - *2023.10*: &nbsp; Glad to be awarded as a IEEE TMI Distinguished Reviewer
