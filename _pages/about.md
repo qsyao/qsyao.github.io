@@ -25,7 +25,8 @@ redirect_from:
 My research lies at developing secure and label-efficient medical image analysis algorithms with AI to achieve cost-efficient-yet-reliable medical decision-making, with the recent focus on 1) learning under severely scarce labeled data, e.g., one-shot medical landmark detection and segmentation. 2) learning without any labeled data, e.g., anomaly detection and zero-shot classification, 3) adversarial attack and defense on medical diagnosis network, 4) universal medical landmark detection & segmentation. 
 
 # 🔥 News
-- *2024.2*: &nbsp; Two papers accepted to ISBI.
+- *2024.3*: &nbsp; One papers accepted to CVPR-24.
+- *2024.2*: &nbsp; Two papers accepted to ISBI-24.
 - *2023.11*: &nbsp; One paper accepted to TMI.
 - *2023.10*: &nbsp; Glad to be awarded as a IEEE TMI Distinguished Reviewer
 - *2023.9*: &nbsp; [BMPLE dataset](https://github.com/MIRACLE-Center/Oneshot_landmark_detection) is now available!
@@ -60,6 +61,8 @@ My research lies at developing secure and label-efficient medical image analysis
 - ``MICCAI 2019`` [3D U^2-Net: A 3D Universal U-Net for Multi-domain Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_33), Chao Huang, Hu Han, **Qingsong Yao**, Shankun Zhu, S. Kevin Zhou [[code]](https://github.com/huangmozhilv/u2net_torch/)
 - ``MICCAI 2021`` [You only Learn Once: Universal Anatomical Landmark Detection](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_9), Heqin Zhu, **Qingsong Yao**, Li Xiao, S. Kevin Zhou [[code]](https://github.com/ICT-MIRACLE-lab/YOLO_Universal_Anatomical_Landmark_Detection)
 
+### Medical Vision-Language Pre-training
+- ``CVPR 2024`` Haoran Lai*, **Qingsong Yao\***, Zihang Jiang, Rongsheng Wang, Zhiyang He, Xiaodong Tao, S Kevin Zhou, CARZero: Cross-Attention Alignment for Radiology Zero-Shot Classification
 
 ### Others
 - ``ISBI 2024`` Long-tailed multi-label classification with noisy label of thoracic diseases from chest X-ray, Haoran Lai, **Qingsong Yao**, Zhiyang He, Xiaodong Tao, S. Kevin Zhou
