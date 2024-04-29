@@ -9,7 +9,7 @@
 title                    : "Qingsong Yao \n (姚青松)"
 description              : "Ph.D candidate in ICT, CAS. Focusing on medical image analysis (MIA)."
 repository               : "qsyao/qingsongyao"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
