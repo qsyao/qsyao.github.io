@@ -25,6 +25,7 @@ redirect_from:
 My research lies at developing secure and label-efficient medical image analysis algorithms with AI to achieve cost-efficient-yet-reliable medical decision-making, with the recent focus on 1) learning under severely scarce labeled data, e.g., one-shot medical landmark detection and segmentation. 2) learning without any labeled data, e.g., anomaly detection and zero-shot classification, 3) adversarial attack and defense on medical diagnosis network, 4) universal medical landmark detection & segmentation. I have published 10+ papers at the top international AI conferences and journals with citations <a href='https://scholar.google.com/citations?user=CMiRzlAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
+- *2024.5*: &nbsp; Two papers accepted to MICCAI-24.
 - *2024.5*: &nbsp; One paper accepted to MIA-24.
 - *2024.5*: &nbsp; One paper accepted to npj Digital Medicine.
 - *2024.3*: &nbsp; One paper accepted to CVPR-24.
@@ -56,6 +57,8 @@ Quan Quan\*,  **Qingsong Yao\***, Heqin Zhu, S. Kevin Zhou
 Quan Quan\*,  **Qingsong Yao\***, Heqin Zhu, S. Kevin Zhou
 - ``MIDL 2024`` [OFELIA: Optical Flow-based Electrode LocalIzAtion](https://openreview.net/forum?id=8245ExLB4I) \
 Xinyi Wang, Zikang Xu, **Qingsong Yao**, Yiyong Sun, S Kevin Zhou
+- ``MICCAI 2024`` SIX-Net: Spatial-context Information miX-up for Electrode Landmark Detection (International Conference on Medical Image Computing and Computer Assisted Intervention)\
+Xinyi Wang, Zikang Xu, Heqin Zhu, **Qingsong Yao**, Yiyong Sun, S Kevin Zhou
 
 ### Anomaly Detection
 - ``TMI 2021`` [Label-free segmentation of COVID-19 lesions in lung CT](https://ieeexplore.ieee.org/abstract/document/9385788/) (Transaction on Medical Imaging)\
@@ -82,14 +85,19 @@ Heqin Zhu, **Qingsong Yao**, Li Xiao, S. Kevin Zhou [[code]](https://github.com/
 Haoran Lai*, **Qingsong Yao\***, Zihang Jiang, Rongsheng Wang, Zhiyang He, Xiaodong Tao, S Kevin Zhou,
 
 ### Others
-- ``ISBI 2024`` Long-tailed multi-label classification with noisy label of thoracic diseases from chest X-ray (IEEE International Symposium on Biomedical Imaging)\
-Haoran Lai, **Qingsong Yao**, Zhiyang He, Xiaodong Tao, S. Kevin Zhou
-- ``MICCAI 2022`` [Rib Suppression in Digital Chest Tomosynthesis](https://link.springer.com/chapter/10.1007/978-3-031-16431-6_66) (International Conference on Medical Image Computing and Computer Assisted Intervention)\
-Yihua Sun, **Qingsong Yao**, Yuanyuan Lyu, Jianji Wang, Yi Xiao, Hongen Liao, S. Kevin Zhou [[code]](https://github.com/sunyh1/Rib-Suppression-in-Digital-Chest-Tomosynthesis)
-- ``MICCAI 2023`` [FairAdaBN: Mitigating unfairness with adaptive batch normalization and its application to dermatological disease classification](https://arxiv.org/abs/2303.08325) (International Conference on Medical Image Computing and Computer Assisted Intervention)\
-Zikang Xu, Shang Zhao, Quan Quan, **Qingsong Yao**, S. Kevin Zhou
 - ``Digital Medicine 2024`` Addressing Fairness Issues in Deep Learning-Based Medical Image Analysis: A Systematic Review \
 Zikang Xu, Jun Li, **Qingsong Yao**, Mingyue Zhao, S. Kevin Zhou
+- ``MICCAI 2024`` HySparK: Hybrid Sparse Masking for Large Scale Medical Image Pre-Training (International Conference on Medical Image Computing and Computer Assisted Intervention)\
+Fenghe Tang, Ronghao Xu, **Qingsong Yao**, Xueming Fu, Quan Quan, Zaiyi Liu, S. Kevin Zhou
+- ``ISBI 2024`` Long-tailed multi-label classification with noisy label of thoracic diseases from chest X-ray (IEEE International Symposium on Biomedical Imaging)\
+Haoran Lai, **Qingsong Yao**, Zhiyang He, Xiaodong Tao, S. Kevin Zhou
+- ``MICCAI 2023`` [FairAdaBN: Mitigating unfairness with adaptive batch normalization and its application to dermatological disease classification](https://arxiv.org/abs/2303.08325) (International Conference on Medical Image Computing and Computer Assisted Intervention)\
+Zikang Xu, Shang Zhao, Quan Quan, **Qingsong Yao**, S. Kevin Zhou
+- ``MICCAI 2022`` [Rib Suppression in Digital Chest Tomosynthesis](https://link.springer.com/chapter/10.1007/978-3-031-16431-6_66) (International Conference on Medical Image Computing and Computer Assisted Intervention)\
+Yihua Sun, **Qingsong Yao**, Yuanyuan Lyu, Jianji Wang, Yi Xiao, Hongen Liao, S. Kevin Zhou [[code]](https://github.com/sunyh1/Rib-Suppression-in-Digital-Chest-Tomosynthesis)
+
+
+
 
 
 # 🎖 Honors and Awards
