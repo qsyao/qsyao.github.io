@@ -28,7 +28,6 @@ My research lies at developing secure and label-efficient medical image analysis
 - *2024.7*: &nbsp; One paper accepted to TMI.
 - *2024.5*: &nbsp; Two papers accepted to MICCAI-24.
 - *2024.5*: &nbsp; One paper accepted to MIA-24.
-#- *2024.5*: &nbsp; One paper accepted to npj Digital Medicine.
 - *2024.3*: &nbsp; One paper accepted to CVPR-24.
 - *2024.2*: &nbsp; Two papers accepted to ISBI-24.
 - *2023.11*: &nbsp; One paper accepted to TMI.
@@ -86,8 +85,6 @@ Heqin Zhu, **Qingsong Yao**, Li Xiao, S. Kevin Zhou [[code]](https://github.com/
 Haoran Lai*, **Qingsong Yao\***, Zihang Jiang, Rongsheng Wang, Zhiyang He, Xiaodong Tao, S Kevin Zhou,
 
 ### Others
-#- ``Digital Medicine 2024`` Addressing Fairness Issues in Deep Learning-Based Medical Image Analysis: A Systematic Review \
-Zikang Xu, Jun Li, **Qingsong Yao**, Mingyue Zhao, S. Kevin Zhou
 - ``MICCAI 2024`` HySparK: Hybrid Sparse Masking for Large Scale Medical Image Pre-Training (International Conference on Medical Image Computing and Computer Assisted Intervention)\
 Fenghe Tang, Ronghao Xu, **Qingsong Yao**, Xueming Fu, Quan Quan, Zaiyi Liu, S. Kevin Zhou
 - ``ISBI 2024`` Long-tailed multi-label classification with noisy label of thoracic diseases from chest X-ray (IEEE International Symposium on Biomedical Imaging)\
