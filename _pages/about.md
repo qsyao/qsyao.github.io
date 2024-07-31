@@ -55,8 +55,6 @@ Heqin Zhu, Quan Quan,  **Qingsong Yao**, Zaiyi Liu, S. Kevin Zhou [[code]](https
 Quan Quan\*,  **Qingsong Yao\***, Heqin Zhu, S. Kevin Zhou
 - ``TMI 2024`` Information-guided unsupervised augmentation: Pixel-wise contrastive learning for medical image analysis \
 Quan Quan\*,  **Qingsong Yao\***, Heqin Zhu, S. Kevin Zhou
-- ``MIDL 2024`` [OFELIA: Optical Flow-based Electrode LocalIzAtion](https://openreview.net/forum?id=8245ExLB4I) \
-Xinyi Wang, Zikang Xu, **Qingsong Yao**, Yiyong Sun, S Kevin Zhou
 - ``MICCAI 2024`` SIX-Net: Spatial-context Information miX-up for Electrode Landmark Detection (International Conference on Medical Image Computing and Computer Assisted Intervention)\
 Xinyi Wang, Zikang Xu, Heqin Zhu, **Qingsong Yao**, Yiyong Sun, S Kevin Zhou
 
