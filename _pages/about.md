@@ -26,6 +26,8 @@ redirect_from:
 My research lies at developing secure and label-efficient medical image analysis algorithms with AI to achieve cost-efficient-yet-reliable medical decision-making, with the recent focus on 1) learning under severely scarce labeled data, e.g., one-shot medical landmark detection and segmentation. 2) learning without any labeled data, e.g., anomaly detection and zero-shot classification, 3) adversarial attack and defense on medical diagnosis network, 4) universal medical landmark detection & segmentation. I have published 10+ papers at the top international AI conferences and journals with citations <a href='https://scholar.google.com/citations?user=CMiRzlAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
+- *2025.5*: &nbsp; One paper accepted to MIA-25.
+- *2025.3*: &nbsp; One paper accepted to CVPR-25.
 - *2025.1*: &nbsp; Thrilled to server as Area Chair of MICCAI-25!
 - *2024.9*: &nbsp; One paper accepted to WACV-24.
 - *2024.7*: &nbsp; One paper accepted to TMI.
@@ -54,9 +56,9 @@ My research lies at developing secure and label-efficient medical image analysis
 Quan Quan\*,  **Qingsong Yao\***, Jun Li, S. Kevin Zhou [[code]](https://github.com/MIRACLE-Center/Oneshot_landmark_detection)
 - ``MICCAI 2023`` [UOD: Universal One-Shot Detection of Anatomical Landmarks](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_3) (International Conference on Medical Image Computing and Computer Assisted Intervention)\
 Heqin Zhu, Quan Quan,  **Qingsong Yao**, Zaiyi Liu, S. Kevin Zhou [[code]](https://github.com/heqin-zhu/UOD_universal_oneshot_detection)
-- ``MIA 2024`` Which images to label for few-shot medical image analysis (Medical Imaging Analysis)\
+- ``MIA 2024`` [Which images to label for few-shot medical image analysis](https://www.sciencedirect.com/science/article/abs/pii/S1361841524001257 ) (Medical Imaging Analysis)\
 Quan Quan\*,  **Qingsong Yao\***, Heqin Zhu, S. Kevin Zhou
-- ``TMI 2024`` Information-guided unsupervised augmentation: Pixel-wise contrastive learning for medical image analysis \
+- ``TMI 2024`` [IGU-Aug: Information-Guided Unsupervised Augmentation and Pixel-Wise Contrastive Learning for Medical Image Analysis](https://ieeexplore.ieee.org/abstract/document/10620395) (Transaction on Medical Imaging) \
 Quan Quan\*,  **Qingsong Yao\***, Heqin Zhu, S. Kevin Zhou
 - ``MICCAI 2024`` SIX-Net: Spatial-context Information miX-up for Electrode Landmark Detection (International Conference on Medical Image Computing and Computer Assisted Intervention)\
 Xinyi Wang, Zikang Xu, Heqin Zhu, **Qingsong Yao**, Yiyong Sun, S Kevin Zhou
@@ -64,6 +66,10 @@ Xinyi Wang, Zikang Xu, Heqin Zhu, **Qingsong Yao**, Yiyong Sun, S Kevin Zhou
 ### Anomaly Detection
 - ``TMI 2021`` [Label-free segmentation of COVID-19 lesions in lung CT](https://ieeexplore.ieee.org/abstract/document/9385788/) (Transaction on Medical Imaging)\
 **Qingsong Yao**, Li Xiao, Peihang Liu, S. Kevin Zhou
+- ``WACV 2024``  [Towards Accurate Unified Anomaly Segmentation](https://arxiv.org/abs/2501.12295) \
+Wenxin Ma, **Qingsong Yao**, Xiang Zhang, Zhelong Huang, Zihang Jiang, S. Kevin Zhou
+- ``CVPR 2025`` [AA-CLIP: Enhancing Zero-Shot Anomaly Detection via Anomaly-Aware CLIP ](https://openaccess.thecvf.com/content/CVPR2025/html/Ma_AA-CLIP_Enhancing_Zero-Shot_Anomaly_Detection_via_Anomaly-Aware_CLIP_CVPR_2025_paper.html) (IEEE / CVF Computer Vision and Pattern Recognition Conference)\
+Wenxin Ma, Xu Zhang, **Qingsong Yao**, Fenghe Tang, Chenxu Wu, Yingtai Li, Rui Yan, Zihang Jiang, S.Kevin Zhou
 
 ### Adversarial attacks and defenses
 - ``ISBI 2024`` [Nowhere to hide: Toward robust reactive medical adversarial defense](https://arxiv.org/abs/2111.10969) (IEEE International Symposium on Biomedical Imaging)\
@@ -84,6 +90,8 @@ Heqin Zhu, **Qingsong Yao**, Li Xiao, S. Kevin Zhou [[code]](https://github.com/
 ### Medical Vision-Language Pre-training
 - ``CVPR 2024`` [CARZero: Cross-Attention Alignment for Radiology Zero-Shot Classification](https://arxiv.org/abs/2402.17417) (IEEE / CVF Computer Vision and Pattern Recognition Conference)\
 Haoran Lai*, **Qingsong Yao\***, Zihang Jiang, Rongsheng Wang, Zhiyang He, Xiaodong Tao, S Kevin Zhou,
+- ``MIA 2025`` [ECAMP: Entity-centered context-aware medical vision language pre-training](https://arxiv.org/abs/2312.13316) (Medical Imaging Analysis)\
+Rongsheng Wang*, **Qingsong Yao\***, Zihang Jiang, Haoran Lai, Zhiyang He, Xiaodong Tao, S Kevin Zhou,
 
 ### Others
 - ``MICCAI 2024`` HySparK: Hybrid Sparse Masking for Large Scale Medical Image Pre-Training (International Conference on Medical Image Computing and Computer Assisted Intervention)\
