@@ -18,18 +18,19 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 
-- I am a postdoc researcher at the department of Urology, Stanford University, co-advised by [Prof. Joseph C. Liao](https://med.stanford.edu/profiles/joseph-liao) and [Prof. Lei Xing](https://med.stanford.edu/profiles/lei-xing).
-- I obtained my Ph. D. degree in the Institute of Computing Technology [(ICT)](http://english.ict.cas.cn/), Chinese Academic of Science (CAS), advised by [Prof. S. Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html). 
+- I am a postdoc researcher at the Department of Urology, Stanford University, co-advised by [Prof. Joseph C. Liao](https://med.stanford.edu/profiles/joseph-liao) and [Prof. Lei Xing](https://med.stanford.edu/profiles/lei-xing).
+- I obtained my Ph. D. degree in the Institute of Computing Technology [(ICT)](http://english.ict.cas.cn/), Chinese Academy of Science (CAS), advised by [Prof. S. Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html). 
 - I obtained my B.E. in School of the Gifted Young ([SCGY](https://en.scgy.ustc.edu.cn/), 少年班学院, honors college) from the University of Science and Technology of China [(USTC)](https://en.ustc.edu.cn/) in 2019. 
 - I gained valuable internship experience in 2019 at Microsoft Research Asia [(MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) under the mentorship of [Jilong Xue](https://www.microsoft.com/en-us/research/people/jxue/). This was followed by internships at [Tencent Jarvis Lab](https://jarvislab.tencent.com/index-en.html) supervised by [Dr. Yefeng Zheng](https://sites.google.com/site/yefengzheng/), and at Z2sky.ai with [Prof. S. Kevin Zhou]((https://sz.ustc.edu.cn/en/en_research_show/42.html)) as my adviser.
 
 My research lies at developing secure and label-efficient medical image analysis algorithms with AI to achieve cost-efficient-yet-reliable medical decision-making, with the recent focus on 1) learning under severely scarce labeled data, e.g., one-shot medical landmark detection and segmentation. 2) learning without any labeled data, e.g., anomaly detection and zero-shot classification, 3) adversarial attack and defense on medical diagnosis network, 4) universal medical landmark detection & segmentation. I have published 10+ papers at the top international AI conferences and journals with citations <a href='https://scholar.google.com/citations?user=CMiRzlAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
+- *2026.2*: &nbsp; Thrilled to serve as Area Chair of MICCAI-26!
 - *2025.7*: &nbsp; One paper accepted to ICCV-25.
 - *2025.5*: &nbsp; Two paper accepted to MIA-25.
 - *2025.3*: &nbsp; One paper accepted to CVPR-25.
-- *2025.1*: &nbsp; Thrilled to server as Area Chair of MICCAI-25!
+- *2025.1*: &nbsp; Thrilled to serve as Area Chair of MICCAI-25!
 - *2024.9*: &nbsp; One paper accepted to WACV-24.
 - *2024.7*: &nbsp; One paper accepted to TMI.
 - *2024.5*: &nbsp; Two papers accepted to MICCAI-24.
@@ -125,13 +126,14 @@ Zikang Xu, Fenghe Tang, Quan Quan, **Qingsong Yao**, Qingpeng Kong, S. Kevin Zho
 - *2020-2022* Merit Student in ICT, CAS 
 
 # 📖 Educations
-- *2024.08 - now*, Postdoc Researcher, Stanford University, Palo Alto, California, United State
-- *2019.06 - 2024.07*, Ph.D, Institute of Computing Technology, Chinese Academic of Science, Beijing
+- *2024.08 - now*, Postdoc Researcher, Stanford University, Palo Alto, California, United States
+- *2019.06 - 2024.07*, Ph.D, Institute of Computing Technology, Chinese Academy of Science, Beijing
 - *2015.09 - 2019.06*, Undergraduate, School of the Gifted Young, University of Science and Technology of China, Hefei 
 
 # 💬 Professional Services
 *Area Chair:* 
 - International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)-25
+- International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)-26
 
 *Jornel Reviewers:* 
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
@@ -149,7 +151,7 @@ Zikang Xu, Fenghe Tang, Quan Quan, **Qingsong Yao**, Qingpeng Kong, S. Kevin Zho
 - Winter Conference on Applications of Computer Vision (WACV)-23
 
 # Developed Tools
-CUDA Spatial DeformCUDA toolkits for 3D/2D image spatial deformation, 45X faster than CPU. [link](https://github.com/qsyao/cuda_spatial_deform)
+CUDA Spatial Deform CUDA toolkits for 3D/2D image spatial deformation, 45X faster than CPU. [link](https://github.com/qsyao/cuda_spatial_deform)
 
 # 💻 Internships
 - *2021.3 - 2021.12*, Z2sky.ai, Suchoow, China
