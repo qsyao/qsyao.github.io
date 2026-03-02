@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 
+- I will join the school of Governance in Renmin University, Soochow campus as assistant professor in 2026 Fall.
 - I am a postdoc researcher at the Department of Urology, Stanford University, co-advised by [Prof. Joseph C. Liao](https://med.stanford.edu/profiles/joseph-liao) and [Prof. Lei Xing](https://med.stanford.edu/profiles/lei-xing).
 - I obtained my Ph. D. degree in the Institute of Computing Technology [(ICT)](http://english.ict.cas.cn/), Chinese Academy of Science (CAS), advised by [Prof. S. Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html). 
 - I obtained my B.E. in School of the Gifted Young ([SCGY](https://en.scgy.ustc.edu.cn/), 少年班学院, honors college) from the University of Science and Technology of China [(USTC)](https://en.ustc.edu.cn/) in 2019. 
