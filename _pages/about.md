@@ -18,8 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 
-- I will join the School of Governance and Soochow School of AI in Renmin University, Soochow Campus, as an assistant professor in the Fall of 2026.
-- I am a postdoc researcher at the Department of Urology, Stanford University, co-advised by [Prof. Joseph C. Liao](https://med.stanford.edu/profiles/joseph-liao) and [Prof. Lei Xing](https://med.stanford.edu/profiles/lei-xing).
+- I am an assistant professor in the School of Governance and Soochow School of AI in Renmin University, Soochow Campus.
+- I was a postdoc researcher at the Department of Urology, Stanford University, co-advised by [Prof. Joseph C. Liao](https://med.stanford.edu/profiles/joseph-liao) and [Prof. Lei Xing](https://med.stanford.edu/profiles/lei-xing).
 - I obtained my Ph. D. degree in the Institute of Computing Technology [(ICT)](http://english.ict.cas.cn/), Chinese Academy of Science (CAS), advised by [Prof. S. Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html). 
 - I obtained my B.E. in School of the Gifted Young ([SCGY](https://en.scgy.ustc.edu.cn/), 少年班学院, honors college) from the University of Science and Technology of China [(USTC)](https://en.ustc.edu.cn/) in 2019. 
 - I gained valuable internship experience in 2019 at Microsoft Research Asia [(MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) under the mentorship of [Jilong Xue](https://www.microsoft.com/en-us/research/people/jxue/). This was followed by internships at [Tencent Jarvis Lab](https://jarvislab.tencent.com/index-en.html) supervised by [Dr. Yefeng Zheng](https://sites.google.com/site/yefengzheng/), and at Z2sky.ai with [Prof. S. Kevin Zhou]((https://sz.ustc.edu.cn/en/en_research_show/42.html)) as my adviser.
