@@ -26,7 +26,39 @@ redirect_from:
 
 My research lies at developing secure and label-efficient medical image analysis algorithms with AI to achieve cost-efficient-yet-reliable medical decision-making, with a recent focus on 1) learning under severely scarce labeled data, e.g., one-shot medical landmark detection and segmentation. 2) learning without any labeled data, e.g., anomaly detection and zero-shot classification; 3) adversarial attack and defense on medical diagnosis network; 4) universal medical landmark detection & segmentation. I have published 20+ papers at the top international AI conferences and journals with citations <a href='https://scholar.google.com/citations?user=CMiRzlAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
+## 🎓 Hiring Students
+
+<font color="red"><b>We are hiring talented and self-motivated graduate students.</b></font>
+
+Third-year undergraduate students preparing to pursue a master's degree are welcome to contact me and apply to the summer camp of our school. All of the students will be jointly supervised by [Prof. Wenxuan Wang](https://jarviswang94.github.io/) (School of Information) and me. Potential research topics include:
+
+- Large language models, multimodal large models, and LLM agents;
+- Medical AI, with an emphasis on label-efficient and trustworthy medical image analysis
+- Multimodal video understanding and reasoning;
+- Agentic AI systems for scientific and medical applications.
+- AI Safety and AI for safety.
+
+## 👥 Students
+
+### Current Mentored Students
+
+- [Rongsheng Wang](https://scholar.google.com/citations?user=rYP1nFEAAAAJ&hl=zh-CN), Ph.D. at USTC
+- Xiaoyu Liu, master student at RUC, [email](847950800@qq.com)
+- Ao Wang, master student at RUC, [email](3113360005@qq.com)
+- Mingfu Gao, master student at RUC, [email](mingfugao@163.com)
+- Musen Li, master student at RUC, [email](04evanli@gmail.com)
+- Yekai Shen, undergraduate at USTC 
+- Yuqian Wang, undergraduate at USTC
+- Qi Wu, undergraduate at USTC
+
+### Former Mentored Students
+
+- [Wenxin Ma](https://mwxinnn.github.io/about/), master student at USTC -> Ph.D. at UT Austin (Congrats!)
+- Heqin Zhu, master student at ICT, CAS -> Ph.D. at USTC
+- Yihua Sun, Ph.D. at Tsinghua University
+
 # 🔥 News
+- *2026.2*: &nbsp; Thrilled to serve as Area Chair of BIBM-26!
 - *2026.2*: &nbsp; Thrilled to serve as Area Chair of MICCAI-26!
 - *2025.7*: &nbsp; One paper accepted to ICCV-25.
 - *2025.5*: &nbsp; Two paper accepted to MIA-25.
@@ -135,6 +167,7 @@ Zikang Xu, Fenghe Tang, Quan Quan, **Qingsong Yao**, Qingpeng Kong, S. Kevin Zho
 *Area Chair:* 
 - International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)-25
 - International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)-26
+- IEEE International Conference on Bioinformatics and Biomedicine (BIBM)-26
 
 *Jornel Reviewers:* 
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
